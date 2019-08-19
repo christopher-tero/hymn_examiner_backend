@@ -1,0 +1,2 @@
+class Hymn < ApplicationRecord
+end

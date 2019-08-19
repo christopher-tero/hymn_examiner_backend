@@ -11,6 +11,8 @@ description: :text
 story: :text
 editorRating: :integer
 editorReview: :text
+doctrine: :integer
+scriptural: :integer
 
 ### Reviews
 user: :references

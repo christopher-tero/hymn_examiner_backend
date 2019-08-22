@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Hymn.create(title: "The Solid Rock", description: "This song shows how Jesus Christ is our Solid Rock to lean upon, no matter what storms life throws our way", story: "Upcoming", editorRating: 5, editorReview: "One of the greatest hymns ever written", doctrinal: 3, scriptural: 5)
